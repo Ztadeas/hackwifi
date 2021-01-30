@@ -79,8 +79,8 @@ with open("jes.txt", "w") as f:
     f.write(",")
 
 
-email_addr = "hackwifivideo@gmail.com"
-passw = "PSPT1234"
+email_addr = ""
+passw = ""
 
 
 mess = EmailMessage()
